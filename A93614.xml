@@ -1,0 +1,294 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Speciall and late passages from the most eminent places in Christendome: containing amongst others these particulars. The winning of the city of Perpinian from the Spaniard. The late proceedings of the Spanish army about Calis. Divers late victories of the Sweedes. The taking of John de Werth. The preparations in Holland for the Queens return. The taking of many Spanish ships by the Dutch Admirall. The distresse of Cullen. The tottering condition of the kingdome of Spaine. The late conspiracie in France, with many other matters of great consequence. / Sent from a Gentleman to his friend in London.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93614</idno>
+            <idno type="STC">Wing S4836</idno>
+            <idno type="STC">Thomason E240_24</idno>
+            <idno type="STC">ESTC R7014</idno>
+            <idno type="EEBO-CITATION">99873067</idno>
+            <idno type="PROQUEST">99873067</idno>
+            <idno type="VID">125520</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93614)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125520)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 41:E240[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Speciall and late passages from the most eminent places in Christendome: containing amongst others these particulars. The winning of the city of Perpinian from the Spaniard. The late proceedings of the Spanish army about Calis. Divers late victories of the Sweedes. The taking of John de Werth. The preparations in Holland for the Queens return. The taking of many Spanish ships by the Dutch Admirall. The distresse of Cullen. The tottering condition of the kingdome of Spaine. The late conspiracie in France, with many other matters of great consequence. / Sent from a Gentleman to his friend in London.</title>
+               </titleStmt>
+               <extent>60 [i.e. 8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Underhill.,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>Octob. 6. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The first 3 pages are unpaginated; p.4 is misnumbered 2, p.5 is misnumbered 59, and p.8 is misnumbered 60.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Thirty Years' War, 1618-1648 --  Early works to 1800.</term>
+               <term>Europe --  History --  1517-1648 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125520:1" rendition="simple:additions"/>
+            <p>SPECIALL AND LATE PASSAGES FROM THE MOST EMINENT PLACES IN <hi>CHRISTENDOME:</hi>
+            </p>
+            <p>Containing amongſt others theſe particulars.</p>
+            <list>
+               <item>The winning of the City of <hi>Perpinian</hi> from the <hi>Spaniard.</hi>
+               </item>
+               <item>The late proceedings of the <hi>Spaniſh</hi> Army about <hi>Calis.</hi>
+               </item>
+               <item>Divers late Victories of the <hi>Sweedes.</hi>
+               </item>
+               <item>The taking of <hi>John de Werth.</hi>
+               </item>
+               <item>The preparations in <hi>Holland</hi> for the Queens return.</item>
+               <item>The taking of many <hi>Spaniſh</hi> ſhips by the <hi>Dutch</hi> Admirall.</item>
+               <item>The diſtreſſe of <hi>Cullen.</hi>
+               </item>
+               <item>The tottering condition of the Kingdom of <hi>Spaine.</hi>
+               </item>
+               <item>The late Conſpiracie in <hi>France,</hi> with many other matters of great conſequence.</item>
+            </list>
+            <p>Sent from a Gentleman to his friend in <hi>London.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Tho. <g ref="char:V">Ʋ</g>nderhill.</hi> Octob. 6. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:125520:2"/>
+            <pb facs="tcp:125520:2"/>
+            <head>THE LATEST REMARKABLE FORRAIGNE <hi>NEWES.</hi>
+            </head>
+            <div type="account">
+               <head>From <hi>Rome</hi> the <hi>4.</hi> of <hi>September, 1642.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">T</seg>Here is a great Tumult between the <hi>Spaniſh</hi> Ambaſſadout and the <hi>Portingall</hi> Ambaſſadour, ſo that the <hi>French</hi> that live in <hi>Rome</hi> tooke the <hi>Portingalls</hi> part, and came ſo far that if the <hi>Spaniſh</hi> Ambaſſadour had not ſaved himſelfe in the Popes houſe, he had been ſlaine. Thereupon the Pope hath cauſed to be proclaimed, that all vagabonds and idle perſons ſhall depart <hi>Rome;</hi> which if this Proclamation be well executed, they will halfe unpeople <hi>Rome.</hi>
+               </p>
+            </div>
+            <div type="account">
+               <head>From <hi>Uttecht</hi> the <hi>7.</hi> of <hi>September.</hi>
+               </head>
+               <p>Here is no Trading that flouriſheth better then thoſe that make inventi<g ref="char:EOLhyphen"/>ons to kill folkes, they worke night and day and cannot make enough, for they buy all ſorts of Armes, and are ſent not onely for <hi>England,</hi> but for <hi>Ger<g ref="char:EOLhyphen"/>many,</hi> and other parts. Here is for certaine, that the Prince hath given leave to draw out of every <hi>Engliſh</hi> Company, two Souldiers, experienced in Armes, and three out of every Colonels Company, to goe they know not where, but ſure it is that they goe for <hi>England,</hi> but for whom I know not.</p>
+            </div>
+            <div type="account">
+               <head>From <hi>Calis</hi> the <hi>15.</hi> of <hi>September.</hi>
+               </head>
+               <p>There is a great diſſention between the two Generalls, to wit, of Horſe and Foot, the one puts the fault in the other, becauſe their exploit did faile in <hi>France:</hi> The <hi>Spaniſh</hi> Generall Don <hi>Franciſco,</hi> and the <hi>Italian</hi> Don <hi>Cantelmo,</hi> ſo that they have ſmall hopes this Sommer: For we have certaine Newes, that the Prince of Orange breaks up and draws his Army, both foot &amp; horſe, into Garriſon, and leaves the <hi>Heſſens</hi> and <hi>Wymers</hi> in Feild, how they will doe this Winter we ſhall heare.</p>
+            </div>
+            <div type="account">
+               <head>From <hi>Paris</hi> the <hi>19.</hi> of <hi>September.</hi>
+               </head>
+               <p>There is ſent to <hi>Perpinian</hi> 500000 Gilders in Victualls and other proviſion, to furniſh the Towne, for it is the greateſt Victory that ever the King of <hi>France</hi> hath had of the <hi>Spaniard,</hi> for this Towne makes all <hi>Spaine</hi> to quake; and now the King of <hi>Spaine</hi> muſt keepe an Army alwayes on foot to ſecure
+<pb n="2" facs="tcp:125520:3"/>his Countrey. The great Maſter of <hi>France,</hi> and the Duke of <hi>Bullion,</hi> with the Secretary of <hi>France,</hi> are brought priſoners, and there are 24 deputed to heare their Examination, and it is thought that they will hardly eſcape with life; yet the Duke of <hi>Bullion</hi> has great friends, the Prince of Orange, the Queen of <hi>Bohemia,</hi> with divers Princes of <hi>Germanie,</hi> ſeeks to mittigate the buſines, being that they had attempted ſomething againſt his Majeſty of <hi>France,</hi> which was not, and is not to be written. The <hi>Swedes</hi> continue Victorious in <hi>Moravi</hi> and <hi>Sileſia,</hi> takes in Townes and Caſtles, they have gotten great ſupply of men and money, ſo that the Emperour is not able to reſiſt them, ſpecially now that the King of <hi>Spaine</hi> can ſend no ſuccours, and the Pope hath enough to doe with the Prince of <hi>Parma.</hi>
+               </p>
+            </div>
+            <div type="account">
+               <head>
+                  <hi>Cargo</hi> or loading of 8. Shippes.</head>
+               <head>From <hi>Braſil</hi> the 9. <hi>September</hi> arrived:</head>
+               <list>
+                  <head>For the <hi>Weſt Indie Company</hi>
+                  </head>
+                  <item>- 1446 Cheſts of Sugar.</item>
+                  <item>Item 692 Marck 17 ounces Gold.</item>
+                  <item>Item - 33005. pound of Braſill wood.</item>
+                  <item>Item - 600. pound Violet wood.</item>
+                  <item>Item - 17080 pound of Copper.</item>
+                  <item>Item - 50155. pound of Ivory.</item>
+               </list>
+               <list>
+                  <head>For the particular Merchants.</head>
+                  <item>23. Cheſts of Tobacco.</item>
+                  <item>Item - 2349. Cheſts of Sugar, and daily to expect more, for there are mote Ships to loade, being a number of Sugars and other wares to be expected.</item>
+               </list>
+            </div>
+            <div type="account">
+               <head>From <hi>Perpinian</hi> the <hi>20.</hi> of <hi>September.</hi>
+               </head>
+               <p>We have certain Newes, that <hi>Perpinian</hi> is delivered up unto the King of <hi>France,</hi> after 14. moneths beſieging, and the greateſt miſerie as hath been heard ſince the deſtruction of <hi>Jeruſalem;</hi> for Mothers hath eaten their owne Children. Their Conditions to march out in a warlike manner, with ſix pie<g ref="char:EOLhyphen"/>ces, flying Colours, full Armes, light match, Bullet in mouth, pack and pack, bag and baggage, and to be conducted with a ſafe Convoy.</p>
+            </div>
+            <div type="account">
+               <head>From out of the Kingdome of <hi>Sweden.</hi>
+               </head>
+               <p>The Elector of <hi>Brandenburgh</hi> ſeeketh to marry the Queene of <hi>Sweeden</hi> that now reigneth; and it is likely that it will be a match, becauſe that they are of one Religion, and both enemies to the Emperour.</p>
+            </div>
+            <div type="account">
+               <head>From out of the <hi>Hage 23.</hi> of <hi>September.</hi>
+               </head>
+               <p>This day a miſchance is fallen in the <hi>Portingalls</hi> Ambaſſadours houſe, that his whole houſe is burnt, and great loſſe of plate and jewells; this fire came through default of his owne ſervants.</p>
+            </div>
+            <div type="account">
+               <head>From <hi>Dunkerk</hi> the <hi>22.</hi> of <hi>September.</hi>
+               </head>
+               <p>Thoſe of <hi>Dunkerk</hi> ſeeing that the States Ships lie ſo neare them, and paſ<g ref="char:EOLhyphen"/>ſeth ſo upon them, that they cannot come out, they are wholly diſcomfor<g ref="char:EOLhyphen"/>ted,
+<pb n="59" facs="tcp:125520:3"/>and run away by multitudes, begging through the Countrey. And we hear daily that the States catch ſometimes 1. or 2. of their Fregats, which are their beſt plundering veſſells, for they have nothing loden but men, ammuni<g ref="char:EOLhyphen"/>tion, and victualls, and the laſt weeke the States men of warre tooke two of them, ſo that of foure that came out three are taken.</p>
+            </div>
+            <div type="account">
+               <head>From <hi>Bohemia</hi> the 14. <hi>Auguſt.</hi> 1642.</head>
+               <p>IN <hi>Vienna</hi> there is a <hi>Spaniard</hi> taken priſoner for having correſpondence with the Sweedes, he will ſuffer a fearfull death: the Caſtle Troupan where Collonel <hi>Slang</hi> lay is given up in hope of mercy. His Excellence Generall <hi>Torſtenſon</hi> lies with his Armie of 24000 foot, and 13000 horſe, between <hi>Hernſtat</hi> and <hi>Crahenborg.</hi>
+               </p>
+            </div>
+            <div type="account">
+               <head>From <hi>Prage,</hi> 6 <hi>Auguſt.</hi>
+               </head>
+               <p>ARchduke <hi>Leopoldus</hi> is marched towards <hi>Torſtenſon,</hi> and hath ruined Collonel <hi>Slangs</hi> whole Army, and himſelf priſoner.</p>
+            </div>
+            <div type="account">
+               <head>From <hi>Cullen</hi> 19.</head>
+               <p>THe Countrey here about is all ſpoiled with ſundrie Armies which lyeth here, ſo that every thing is very deare, for all the countrey people are fled into this Fown, and leſt goods and houſes to the diſpoſition of the enemies, being glad onely to ſave their lives; for we can get no proviſion from <hi>Hol<g ref="char:EOLhyphen"/>land,</hi> as we were wont to do, becauſe the King of <hi>France</hi> his Army lies be<g ref="char:EOLhyphen"/>tween us and them 30000 ſtrong: likewiſe the Prince of <hi>Orange</hi> lies with his whole Army but two houres going from them. So that if this continue, we ſhall be conſtrained to fall into our enemies hands</p>
+            </div>
+            <div type="account">
+               <head>From <hi>Breſlo</hi> in <hi>Hungaria</hi> 10 <hi>Auguſt.</hi>
+               </head>
+               <p>VPon St. <hi>James</hi> day the Sweedes have taken the Town of <hi>Briegh,</hi> plun<g ref="char:EOLhyphen"/>dered the Town of <hi>Neus,</hi> and taken the principalleſt of the Land with them; and ſets upon them an extraordinary ranſome: took a number of cattell with them. The <hi>Friday</hi> after came 2 Regiments of the Emperours Army, and afterwards the whole Army to fight with the <hi>Sweediſh,</hi> but durſt not fall on, although they were almoſt two for one.</p>
+            </div>
+            <div type="account">
+               <head>From <hi>Baſel</hi> 15 <hi>Auguſt.</hi>
+               </head>
+               <p>ABout this Town is fallen ſuch hail ſtones that no man alive ever ſaw the like, they have beaten down the corn, and ſpoiled the vineyards ſo, and withall the enemies parties comes and drives away all our catrell: ſo that in out town and round about the town thouſands dies for hunger.</p>
+               <p>In a Town of <hi>Germany</hi> 2 Taylors wife is brought to bed with a child ha<g ref="char:EOLhyphen"/>ving two heads, foure arms, foure legs, faſtened together, two bodies, at the navell and liveth yet: ſo it is credibly reported.</p>
+            </div>
+            <div type="account">
+               <head>From <hi>Arien</hi> out of the King of <hi>Spaines</hi> Army the 15 <hi>ditto.</hi>
+               </head>
+               <p>
+                  <hi>Don Franciſco Melo</hi> the Spaniſh Generall having muſtered his Army, and
+<pb n="6" facs="tcp:125520:4"/>finds them 25000 ſtrong, with 80 peeces of Ordnance, beſides the horſe which is the flower of his Army, payd the whole Army every one a moneths pay, then they marched towards <hi>Valliciens,</hi> and cauſeth much ammunition bread to be baked, and commands every Souldier to provide his knapſack for 8 dayes; and came hard by <hi>Callis,</hi> and took the ſtrong Caſtle of <hi>Oye, Don Cantelmo</hi> Generall of the horſe, dividing his Army into three wings, march<g ref="char:EOLhyphen"/>ed by night between <hi>Ardes</hi> and <hi>Bullin,</hi> and took in two Forts by <hi>Callis,</hi> cutting off the paſſage of the Town of <hi>Ardes</hi> that <hi>Callis</hi> could have no ſuccour. <hi>Can<g ref="char:EOLhyphen"/>telmo</hi> hath alſo taken the Fort St. <hi>Lewis,</hi> ſo that it will be hard for the <hi>French</hi> to get out the <hi>Spaniard:</hi> The <hi>French</hi> Generall Count <hi>Harcourt</hi> lets them alone and is marched into the Count of <hi>Haynow,</hi> whas he will do we ſhall hear. From <hi>Ostend, Newport</hi> and <hi>Graveling,</hi> we hear they make great preparation to ſend out great ſtore of armed ſhipping, but the <hi>Hollanders</hi> ſhips keeps them in And this laſt week our Stateſmen of warre hath taken a well mounted ſhip with 16 peeces of Ordnance, and 100 men, being the firſt voyage that it made.</p>
+               <p>We have certain news that the <hi>French</hi> men hath taken all the Caſtles and Forts that they had loſt, and were taken by the <hi>Spaniard,</hi> but they are beaten out with great loſſe of blood.</p>
+               <p>The Duke of <hi>Bullin</hi> is brought priſoner to <hi>Lyons,</hi> the <hi>Cardinall</hi> is likewiſe gone thither: tis greatly to be feared but he will ſuffer, being that the <hi>Cardinal</hi> is his great enemy.</p>
+               <p>The Princeſſe of <hi>Orange</hi> is brought to bed of a young daughter, which is the cauſe of much joy.</p>
+               <p>There are letters come to the States of certain news that <hi>Perpinian</hi> is taken by the King of <hi>France,</hi> after foure moneths beleaguering, and enduring ſuch hunger that the ſouldiers have ſtolne little children and eaten them, after they had eaten all the leather and goat skins that were to be found. The con<g ref="char:EOLhyphen"/>ditions whereupon they rendred, at the next return you ſhall hear.</p>
+               <p>A fearfull accident is befallen in one of the States towns, called <hi>Weſell,</hi> ſome 7 or 8 Waggons going to the Leaguer loden with powder, it ſeems that there was a barrell that ſcattered powder as it went, which was the laſt ſaving 2. and being behind, the bore whipt his horſe to be by the others. The horſe ſtrikes fire with his iron ſhooes, ſo that waggons, horſe, men, all flies in the aire: 60 perſons, 25 houſes, beſides other harms.</p>
+               <p>Here is a ſhip come from <hi>Portugall,</hi> brings news that there is a fleet of ſhips from <hi>Braſillia</hi> with 12000 cheſts of Sugars, with other Marchandiſe: and that there was a fleet of ſhips ſailed out, but not knowing where.</p>
+               <p>A Poſte came from <hi>Cullen</hi> ſaying, that the <hi>Sweediſh</hi> troops ſet upon the Emperours arreareguard, taking from them 1500 waggons, with baggage and rich pillage, 2 halt Cannons, 6 ſmall field Peices, 1 Morter, and a great many of priſoners taken, and many killed, the number is not juſtly known.</p>
+               <p>Moreover tis ſaid that a whole Dutch myle the ground was covered with dead bodies.</p>
+               <p>Within theſe foure dayes there happened a battell between the <hi>Wymars</hi> Army and the Emperours, here in our low Countreys, ſince that the <hi>States</hi>
+                  <pb n="7" facs="tcp:125520:4"/>Army departed and came lower into the Land: the <hi>Wymars</hi> are payed by the King of <hi>France,</hi> and the other belonging to the Emperour, and lieth there to defend the City of <hi>Cullen,</hi> theſe two Armies it ſeemed fell foule the one of the other: ſo that there are 3000 horſemen taken priſoners, and 500 ſlain. The Generall <hi>John de Werth</hi> is likewiſe taken, which cauſeth great joy. For this unhappy Generall, if ſo he may be called, hath been taken once before by the King of <hi>France,</hi> and kept priſoner 4 yeers in the Caſtle of <hi>Paris,</hi> and now is likely to return again, but hardly never to be relieved.</p>
+               <p>Here is great talk of the Queens returning into <hi>England,</hi> for the States of <hi>Holland</hi> makes readineſſe to give her ſhips for her ſafe convoy: if ſhe were go<g ref="char:EOLhyphen"/>ing, there are none would hold. Her Servants finds great difference between <hi>England</hi> and theſe Countreys; wiſhing they might change aire, the ſooner the better.</p>
+            </div>
+            <div type="account">
+               <head>In <hi>Rotterdam.</hi>
+               </head>
+               <p>A few dayes paſt, Captain <hi>Colſter</hi> took a <hi>Fregat</hi> that came out of <hi>Dunkirk</hi> mounted with 30 Peices of Ordnance, 300 men: this was one of the three which deſperately ventured out of <hi>Dunkirk</hi> ſome ten dayes ago in ſpight of our <hi>Holland</hi> fleet: the ſecond is taken by the <hi>Zelanders,</hi> and brought to <hi>Flu<g ref="char:EOLhyphen"/>ſhing,</hi> the third is ſunk. The 300 men are brought priſoners to <hi>Rotterdam.</hi>
+               </p>
+            </div>
+            <div type="account">
+               <head>From <hi>Bergamopzom.</hi>
+               </head>
+               <p>One night a party of the enemy came from <hi>Lyer</hi> about 200 ſtrong, with boats upon waggons, and came into the Land of the <hi>Cluniard,</hi> where they plundered onely 3 houſes, and took 5 priſoners, and was forced to run away: for had they tarried a little longer, Collonel <hi>Morgan</hi> had been at their heels.</p>
+               <p>Laſt Wedneſday 9 ſhips went out of <hi>Dunkirk</hi> full of men &amp; ammunition, and bound for <hi>Spaine,</hi> but were followed by our Admirall <hi>Martin Tromp,</hi> and after 3 houres fight, one was taken mounted with 20 Petces, 100 Sayl<g ref="char:EOLhyphen"/>lers, and 250 ſouldiers, being moſt of them <hi>Bourgunnians,</hi> and <hi>Wallouns:</hi> making their account to go fetch ſome <hi>Spaniſh</hi> Gold, but tis miſt, upon this ſhip that was taken in the fight, there was ſlain 18 men, and 34 hurt: The ſhip that took her loſt 3 men.</p>
+            </div>
+            <div type="account">
+               <head>From <hi>Clogau</hi> in <hi>Sileſia</hi> the <hi>19</hi> of <hi>September.</hi>
+               </head>
+               <p>The <hi>Swediſh</hi> hath had a great Victory againſt the <hi>Emperialiſts</hi> in <hi>Germany,</hi> ſo that the Emperours Armie is wholly deleated, and the <hi>Swedes</hi> make them<g ref="char:EOLhyphen"/>ſelves Maſter of <hi>Bohemia, Moravia,</hi> and <hi>Sileſia;</hi> and now that the <hi>Swedes</hi> have got ten thouſand <hi>French</hi> men to ſupply their Army, and that the King of <hi>Spaine</hi> cannot helpe the Emperour, ſo that it will be a cauſe that the <hi>Swedes</hi> will have a great Victory.</p>
+            </div>
+            <div type="account">
+               <head>From <hi>Gorlits</hi> in <hi>Saxony</hi> the <hi>23. September.</hi>
+               </head>
+               <p>Eighteen <hi>Sutlaers</hi> with horſe and carts being ſet upon by 50 <hi>Saxiſh</hi> horſe-men, pillaged them, and found 8000. Duckets in courant, the Saxſiſer Army doth much harme about this Towne, they have burnt 24. Brew-houſes, and 100. other houſes, and the Church of <hi>S. Niclaes.</hi>
+               </p>
+               <pb n="60" facs="tcp:125520:5"/>
+               <p>The loſſe of the Towne of <hi>Perpinian,</hi> and likewiſe the whole <hi>Spaniſh Fleet,</hi> coming from <hi>Terra Firma,</hi> with all his treaſure, puts him into a great per<g ref="char:EOLhyphen"/>plexitie, that he knows not which way to turne him; for this Fleet before it was caſt away, was 17. Ships, and eſteemed to be worth 30. Millions of gold.</p>
+            </div>
+            <div type="account">
+               <head>From <hi>Cullen</hi> the <hi>21.</hi> of <hi>September.</hi>
+               </head>
+               <p>Here is no great Newes, onely the foure Ledgers which lay here, two of the which lyeth ſtill; the King of <hi>Spaines</hi> Ledger and the Prince of Orange, they be retired, but we beleeve they will doe nothing this year, for the time will come ſhortly, that they will be forced to retire into Garriſon. What the <hi>Wymers</hi> and the Emperours Armie will doe which lyeth here, we ſhall ſhort<g ref="char:EOLhyphen"/>ly ſee. His Highnes the Prince of Orange is come with his Armie to the <hi>Maze,</hi> and in his way hath taken in a ſtrong Houſe called <hi>Bosbergen,</hi> which the <hi>Spaniard</hi> thought to fortifie, where he hath found great ſtore of Ammu<g ref="char:EOLhyphen"/>nition and proviſion, and ſo ſoone as he hath well fortified the ſame place, he will retire home to Garriſon: it is a place of great importance for theſe Countreys.</p>
+               <p>The Generall of the <hi>Wymers</hi> is marched over the River of <hi>Rhyne</hi> with part of his Armie, to fetch in proviſion out of the neighbouring Countries, and in his going over the Bridge, he gave the keepers of the Bridge 400. Duckets to drinke to his health. There were two Souldiers of the beſt experimented out of every <hi>Engliſh</hi> Company, to goe, as it is thought, for the King of <hi>England;</hi> but they are ſtayd, and Captain <hi>Flood,</hi> who ſhould have conducted them, is impriſoned in <hi>Dort,</hi> a Towne in <hi>Holland,</hi> and is like to ſuffer for it, being that the States are very diſcontented that ſuch things ſhould be done without their knowledge.</p>
+            </div>
+            <div type="account">
+               <head>From <hi>Paris</hi> the <hi>26.</hi> of <hi>September.</hi>
+               </head>
+               <p>It is for certaine, that the King of <hi>France</hi> ſince that he hath taken <hi>Perpinian,</hi> and hath ſtrengthened his Army ſo ſtrong, that he may goe into <hi>Spaine</hi> where he pleaſeth, into the Kingdome of <hi>Arragon, Vallencie,</hi> or <hi>Navarre,</hi> ſo that the Kings of <hi>Spaine</hi> never ſaw themſelves ſo near home this many years, and is like to ſee more troubles, for we heare that the Kingdome of <hi>Vallencie</hi> doth follow the ſteps of <hi>Portingall,</hi> that if they had a ſure Head, they would ſoone riſe.</p>
+               <p>It is likewiſe aſſured that Monſieut <hi>le Grand,</hi> and Monſieur <hi>le Thon,</hi> are both beheaded; and for any thing we can heare, that the Duke of <hi>Bullion</hi> is in great danger, his Mother being dead, and all his friends flie from him, excepting the Prince of Orange his Unkle; He hath offered the King of <hi>France</hi> the Towne of <hi>Sedan,</hi> whereof he is a Prince Soveraigne, to ſave his life; But the Cardinall which governeth the King and Kingdome, ſaith, that there is no truſt in him, and that if he were let goe, he might doe worſe then before: It ſeemes that his fact is hainous, he is here much bemoned, for ſince his mar<g ref="char:EOLhyphen"/>riage, and his revolting from his Religion, the leaving of his Government of <hi>Maſtrich,</hi> and now this bad Enterpriſe, ſo that we feare the worſt.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
